@@ -16,6 +16,6 @@ See [the student readme](README.md) for instructions.
 
 ### Plenary (15 minutes)
 
-Collaboratively review students' suggested structures.
+Collaboratively review students' suggested structures. You can use the [PLENARY GUIDE](https://github.com/sjmog/databases_2/blob/plenary/PLENARY.md) to help you.
 
 > Focus more on the database structures than on the CRC modelling.

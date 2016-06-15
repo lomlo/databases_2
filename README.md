@@ -71,4 +71,3 @@ As a coach
 So I can get an overview of feedback
 I want to see an average daily rating for each student
 ```
-
